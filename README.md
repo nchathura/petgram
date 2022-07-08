@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](https://i.ibb.co/wrVxsgd/screen-record.gif)
+![GIF](https://github.com/nchathura/petgram/blob/main/public/screen-record.gif)
 
 
 Petgram is a simple social media application frontend created with MUI (Material UI) & React JS.  
